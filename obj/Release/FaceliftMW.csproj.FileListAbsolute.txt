@@ -1,0 +1,17 @@
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\FaceliftMW.exe.config
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\FaceliftMW.exe
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\FaceliftMW.pdb
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\Impinj.OctaneSdk.dll
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\LLRP.dll
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\LLRP.Impinj.dll
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\Newtonsoft.Json.dll
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\bin\Release\Newtonsoft.Json.xml
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.InformationForm.resources
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.MainForm.resources
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.Properties.Resources.resources
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.SettingForm.resources
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.csproj.GenerateResource.cache
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.csproj.CopyComplete
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.exe
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.pdb
+D:\Duta Kalingga Pratama\Projects\Unilever\Facelift\Application\Facelift_Middleware\FaceliftMW\obj\Release\FaceliftMW.csprojAssemblyReference.cache
