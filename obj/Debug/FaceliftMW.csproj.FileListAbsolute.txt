@@ -45,3 +45,18 @@ D:\Source Code\PT UNILEVER\PROJECT UNILEVER-FACELIFT MC UNILEVER 2020-2021\Facel
 D:\Source Code\PT UNILEVER\PROJECT UNILEVER-FACELIFT MC UNILEVER 2020-2021\Facelift_Middleware\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.csproj.CopyComplete
 D:\Source Code\PT UNILEVER\PROJECT UNILEVER-FACELIFT MC UNILEVER 2020-2021\Facelift_Middleware\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.exe
 D:\Source Code\PT UNILEVER\PROJECT UNILEVER-FACELIFT MC UNILEVER 2020-2021\Facelift_Middleware\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.pdb
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\bin\Debug\FaceliftMW.exe.config
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\bin\Debug\FaceliftMW.exe
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\bin\Debug\FaceliftMW.pdb
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\bin\Debug\Newtonsoft.Json.dll
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\bin\Debug\Newtonsoft.Json.xml
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.csproj.AssemblyReference.cache
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.InformationForm.resources
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.MainForm.resources
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.Properties.Resources.resources
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.SettingForm.resources
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.csproj.GenerateResource.cache
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.csproj.CoreCompileInputs.cache
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.csproj.Up2Date
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.exe
+D:\Source Code\PT UNILEVER 4.5.2\Application\Facelift_Middleware\FaceliftMW\obj\Debug\FaceliftMW.pdb
